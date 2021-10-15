@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_goal_sus_icon"
+		texturefile = "gfx/interface/goals/sus.dds"
+	}
+}

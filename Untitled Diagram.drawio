@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T04:13:52.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.1" etag="pDie3sQf4fZIyGE7qTix" type="github"><diagram id="s_kU3WCkZhVzU1Nega4p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-14T05:03:09.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="yBX05hCBaCSfWNG3Unis" version="15.9.1" type="github">
+  <diagram id="s_kU3WCkZhVzU1Nega4p" name="Page-1">
+    <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jGNUo7yDng5YK9LrngmY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-1" target="jGNUo7yDng5YK9LrngmY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-1" target="jGNUo7yDng5YK9LrngmY-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="90" />
+              <mxPoint x="1220" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-1" value="the&amp;nbsp;revolutionary&amp;nbsp;coalition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-2" target="jGNUo7yDng5YK9LrngmY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="200" />
+              <mxPoint x="630" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-2" target="jGNUo7yDng5YK9LrngmY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-2" target="jGNUo7yDng5YK9LrngmY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="200" />
+              <mxPoint x="220" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-2" value="a union of britons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-4" value="the idealist&lt;br&gt;(R. H. Tawney)&lt;br&gt;(Christian socialism?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-5" value="the orator&lt;br&gt;(Oswald Mosley)&lt;br&gt;(the gamer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-6" value="the&amp;nbsp;pioneer&lt;br&gt;(R. Palme Dutt)&lt;br&gt;(have a lot of common with trosky)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-7" target="jGNUo7yDng5YK9LrngmY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-7" target="jGNUo7yDng5YK9LrngmY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-7" value="power of the new left" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGNUo7yDng5YK9LrngmY-8" target="jGNUo7yDng5YK9LrngmY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-8" value="&lt;span style=&quot;font-size: 12px&quot;&gt;symbol of the people&lt;br&gt;(William Morris)&lt;br&gt;(crazy anarchist)&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-9" value="one red saint&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;(Beatrice Webb)&lt;br&gt;&lt;/span&gt;(radical socialist)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-11" value="a speech in kingsway hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-15" value="a new&amp;nbsp;diplomat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-19" value="a christ&#39;s revolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jGNUo7yDng5YK9LrngmY-20" value="mother anarchy loves her sons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
